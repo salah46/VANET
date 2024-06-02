@@ -1,0 +1,11 @@
+1) scenraio 3 represent a simulation of 204 vihuculers in ain_temouchent with speed=11m/s 
+
+2) to run simualtion run the following command: ./waf --run "file's path --protocol=? --scenario=3"
+
+    ***protocol=1 //OLSR
+    ***protocol=2 //AODV
+    ***protocol=3 //DSDV
+    ***protocol=4 //DSR
+
+
+
